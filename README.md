@@ -18,3 +18,5 @@
 
 The data used in this paper can be downloaded from:
 https://kaggle.com/devinanzelmo/dota-2-matches
+
+![alt text](https://raw.githubusercontent.com/FrederickWillem/Dota2-Chat-Analysis/master/data/test.png)
