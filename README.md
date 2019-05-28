@@ -20,3 +20,7 @@ The data used in this paper can be downloaded from:
 https://kaggle.com/devinanzelmo/dota-2-matches
 
 ![alt text](https://raw.githubusercontent.com/FrederickWillem/Dota2-Chat-Analysis/master/data/test.png)
+Above an example of how text is altered
+![alt text](https://raw.githubusercontent.com/FrederickWillem/Dota2-Chat-Analysis/master/data/great.png)
+![alt text](https://raw.githubusercontent.com/FrederickWillem/Dota2-Chat-Analysis/master/data/wtf.png)
+Above two examples of most similar words to the input (quite close to human interpretation)
